@@ -43,7 +43,7 @@ interior-design-website/
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/your-username/interior-design-website.git
+   https://github.com/varunkgupta/interior-design-website-using-html-css.git
    ```
 
 2. Open the project folder
