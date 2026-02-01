@@ -61,12 +61,6 @@ interior-design-website/
 
 ---
 
-## 📸 Screenshots
-
-*Add screenshots of your website here to improve presentation.*
-
----
-
 ## 📌 Future Improvements
 
 * Add JavaScript for interactivity
